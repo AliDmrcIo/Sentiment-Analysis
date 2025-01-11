@@ -4,6 +4,6 @@ You can access the dataset from here: https://drive.google.com/file/d/1Tjzaj-gFs
 
 Here are the application visuals and usage instructions:
 
-<img src="https://github.com/user-attachments/assets/ad8c758a-334f-4fc5-bb6a-a8c5737ba597" alt="image1" width="770" height="1020">
+<img src="https://github.com/user-attachments/assets/ad8c758a-334f-4fc5-bb6a-a8c5737ba597" alt="image1" width="570" height="820">
 
 <img src="https://github.com/user-attachments/assets/394533ab-6436-48e1-b99e-51b1b2a96845" alt="image1" width="600" height="500">
