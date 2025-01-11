@@ -4,13 +4,6 @@ You can access the dataset from here: https://drive.google.com/file/d/1Tjzaj-gFs
 
 Here are the application visuals and usage instructions:
 
-<img src="https://github.com/user-attachments/assets/394533ab-6436-48e1-b99e-51b1b2a96845" alt="image1" width="250" height="250">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/61b465d2-2fcb-4f64-9642-542f9d869b33" alt="image2" width="250" height="500">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/cc9a4ac9-c48e-46c0-a64b-fe5cfa17a9f4" alt="image2" width="250" height="500">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/c512a3de-5cdf-4141-b367-fa1055c6ba93" alt="image3" width="250" height="500">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/a292f31f-54b5-4e16-84cb-3ac8a2c4dd9b" alt="image4" width="250" height="500">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/bb050d3c-47a7-4556-84b3-a3bc5c8c3b6e" alt="image5" width="250" height="500">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/8f10b208-be4d-4bdb-bebd-bf7499c26d9b" alt="image6" width="250" height="500">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/da43d933-a0e5-4772-a4df-88c249e9bd69" alt="image7" width="250" height="500">
-<img src="https://github.com/AliDmrcIo/ZinciriKirma/assets/110434358/0d820950-1984-4e7a-89fc-765fe3b8549f" alt="image8" width="250" height="500">
+<img src="https://github.com/user-attachments/assets/394533ab-6436-48e1-b99e-51b1b2a96845" alt="image1" width="500" height="500">
+
 
